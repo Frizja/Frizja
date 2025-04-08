@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frizja
 - 👀 I’m interested in coding, animation, digital art, machine learning, video games and animals
-- 🌱 I’m currently learning JavaScript, Rust, Kotlin
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: any, they/them preffered
